@@ -1,2 +1,0 @@
-Main-Class: fr.tom.acterax.yanis.yanis6660.EProxy
-Manifest-Version: 0.1
